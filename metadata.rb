@@ -1,4 +1,4 @@
-name              'rabbitmq'
+name              'sf-rabbitmq'
 maintainer        'Simple Finance'
 maintainer_email  'ops@simple.com'
 license           'Apache 2.0'
